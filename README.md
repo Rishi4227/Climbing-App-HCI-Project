@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 Feel free to reach out:
 - **Name**: Rishi Patel
-- **Email**: rishi.patel@example.com (replace with your actual email)
-- [LinkedIn](https://linkedin.com/in/rishi4227)
+- **Email**: rishipatel6147@gmail.com
+- [LinkedIn](www.linkedin.com/in/rishi-patel-20b289342)
 
 
